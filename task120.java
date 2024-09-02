@@ -1,7 +1,7 @@
 /**
  * task120
  */
-public class task120 {
+public class Task120 {
 
     public static void main(String[] args) {
         /*int[] arr= {4,5,6};*/
